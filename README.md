@@ -17,7 +17,7 @@ Every code change pushed to GitHub triggers an automated workflow that:
 - Runs automated tests
 - Performs code quality checks
 - Creates and pushes Docker images
-- Prepares the application for production deployment
+- Prepares the application for production deployment.
 
 ---
 
